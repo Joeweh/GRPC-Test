@@ -42,7 +42,4 @@ bin/
 .DS_Store
 
 ### GRPC ###
-protoc-gen-grpc-kotlin.exe
-protoc-gen-grpc-java.exe
-protoc-gen-grpc-kotlin-1.4.1-jdk8.jar
-launch4j-config.xml
+grpc_plugins/
